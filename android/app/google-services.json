@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "547875983139",
+    "project_id": "lastburger-f1edb",
+    "storage_bucket": "lastburger-f1edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547875983139:android:3e6dc849697a025854c696",
+        "android_client_info": {
+          "package_name": "com.widiskel.lastburger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547875983139-7d5he606ca8df616ivu650bjdapb7tmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34np3IlkgdQ5Bqccf_gOrX4A7z9hDfmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547875983139-7d5he606ca8df616ivu650bjdapb7tmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547875983139-2pjn2ic3512slqsamtsfldeqe0sq5p9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lastburger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
